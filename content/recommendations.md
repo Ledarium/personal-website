@@ -8,3 +8,4 @@ title = 'Recommendations'
 - [Philipp Cristiano](https://philipcristiano.com/)
 - [0xflux](https://fluxsec.red/)
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/)
+- [djnn@localhost](https://djnn.sh/)
