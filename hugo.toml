@@ -1,0 +1,4 @@
+baseURL = 'https://wearentsa.me/'
+languageCode = 'en-us'
+title = 'We are not the same'
+theme = 're-terminal'
