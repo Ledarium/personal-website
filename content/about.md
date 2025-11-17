@@ -8,13 +8,16 @@ title = 'About'
 
 I'm a non-passionate programmer, gamer, meme enjoyer and musician.
 
+No AI will ever be harmed during the creation of my posts.
+
 ## Projects
 
 ### Active
 
+- Telegram bot for monitoring connection availability, VictoriaMetrics/Grafana stack
 - Working under NDA on Python projects
 - Synthetic metal album
-- Mostly gaming, singing and playing guitar
+- Mostly gaming, singing and playing guitar in my free time
 
 ### Archived
 
@@ -25,6 +28,6 @@ tracker/counter for board game players
 
 ## Contacts
 
-- Email: d@wearentsa.me
+- Email: d@wearentsa.me - hosted by Proton
 - [Github](https://github.com/Ledarium)
 - [Steam](https://steamcommunity.com/id/FFFUFFUFUFUFU/)
